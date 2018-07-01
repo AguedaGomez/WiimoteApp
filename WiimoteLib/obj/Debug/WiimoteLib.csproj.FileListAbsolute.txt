@@ -1,0 +1,13 @@
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteLib\bin\Debug\WiimoteLib.XML
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteLib\bin\Debug\WiimoteLib.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteLib\bin\Debug\WiimoteLib.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteLib\obj\Debug\WiimoteLib.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteLib\obj\Debug\WiimoteLib.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteLib\obj\Debug\WiimoteLib.pdb
+C:\Users\al285895\Desktop\FormsDemo\WiimoteLib\bin\Debug\WiimoteLib.XML
+C:\Users\al285895\Desktop\FormsDemo\WiimoteLib\bin\Debug\WiimoteLib.dll
+C:\Users\al285895\Desktop\FormsDemo\WiimoteLib\bin\Debug\WiimoteLib.pdb
+C:\Users\al285895\Desktop\FormsDemo\WiimoteLib\obj\Debug\WiimoteLib.csprojResolveAssemblyReference.cache
+C:\Users\al285895\Desktop\FormsDemo\WiimoteLib\obj\Debug\WiimoteLib.csproj.CoreCompileInputs.cache
+C:\Users\al285895\Desktop\FormsDemo\WiimoteLib\obj\Debug\WiimoteLib.dll
+C:\Users\al285895\Desktop\FormsDemo\WiimoteLib\obj\Debug\WiimoteLib.pdb

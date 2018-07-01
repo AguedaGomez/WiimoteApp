@@ -1,0 +1,43 @@
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteTest\bin\Debug\WiimoteTest.exe.config
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteTest\bin\Debug\WiimoteTest.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteTest\bin\Debug\WiimoteTest.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteTest\bin\Debug\WiimoteLib.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteTest\bin\Debug\WiimoteLib.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteTest\bin\Debug\WiimoteLib.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteTest\obj\Debug\WiimoteTest.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteTest\obj\Debug\WiimoteTest.SingleWiimoteForm.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteTest\obj\Debug\WiimoteTest.MultipleWiimoteForm.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteTest\obj\Debug\WiimoteTest.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteTest\obj\Debug\WiimoteTest.WiimoteInfo.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteTest\obj\Debug\WiimoteTest.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteTest\obj\Debug\WiimoteTest.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017\WiimoteTest\obj\Debug\WiimoteTest.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017-old\WiimoteTest\bin\Debug\WiimoteTest.exe.config
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017-old\WiimoteTest\obj\Debug\WiimoteTest.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017-old\WiimoteTest\obj\Debug\WiimoteTest.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017-old\WiimoteTest\bin\Debug\WiimoteTest.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017-old\WiimoteTest\bin\Debug\WiimoteTest.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017-old\WiimoteTest\bin\Debug\WiimoteLib.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017-old\WiimoteTest\bin\Debug\WiimoteLib.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017-old\WiimoteTest\bin\Debug\WiimoteLib.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017-old\WiimoteTest\obj\Debug\WiimoteTest.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017-old\WiimoteTest\obj\Debug\WiimoteTest.SingleWiimoteForm.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017-old\WiimoteTest\obj\Debug\WiimoteTest.MultipleWiimoteForm.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017-old\WiimoteTest\obj\Debug\WiimoteTest.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017-old\WiimoteTest\obj\Debug\WiimoteTest.WiimoteInfo.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\InterfacesMultimodales2017-old\WiimoteTest\obj\Debug\WiimoteTest.csproj.GenerateResource.Cache
+C:\Users\al285895\Desktop\FormsDemo\WiimoteTest\bin\Debug\WiimoteTest.exe.config
+C:\Users\al285895\Desktop\FormsDemo\WiimoteTest\bin\Debug\WiimoteTest.exe
+C:\Users\al285895\Desktop\FormsDemo\WiimoteTest\bin\Debug\WiimoteTest.pdb
+C:\Users\al285895\Desktop\FormsDemo\WiimoteTest\bin\Debug\WiimoteLib.dll
+C:\Users\al285895\Desktop\FormsDemo\WiimoteTest\bin\Debug\WiimoteLib.pdb
+C:\Users\al285895\Desktop\FormsDemo\WiimoteTest\bin\Debug\WiimoteLib.xml
+C:\Users\al285895\Desktop\FormsDemo\WiimoteTest\obj\Debug\WiimoteTest.csprojResolveAssemblyReference.cache
+C:\Users\al285895\Desktop\FormsDemo\WiimoteTest\obj\Debug\WiimoteTest.SingleWiimoteForm.resources
+C:\Users\al285895\Desktop\FormsDemo\WiimoteTest\obj\Debug\WiimoteTest.MultipleWiimoteForm.resources
+C:\Users\al285895\Desktop\FormsDemo\WiimoteTest\obj\Debug\WiimoteTest.Properties.Resources.resources
+C:\Users\al285895\Desktop\FormsDemo\WiimoteTest\obj\Debug\WiimoteTest.WiimoteInfo.resources
+C:\Users\al285895\Desktop\FormsDemo\WiimoteTest\obj\Debug\WiimoteTest.csproj.GenerateResource.Cache
+C:\Users\al285895\Desktop\FormsDemo\WiimoteTest\obj\Debug\WiimoteTest.csproj.CoreCompileInputs.cache
+C:\Users\al285895\Desktop\FormsDemo\WiimoteTest\obj\Debug\WiimoteTest.exe
+C:\Users\al285895\Desktop\FormsDemo\WiimoteTest\obj\Debug\WiimoteTest.pdb
